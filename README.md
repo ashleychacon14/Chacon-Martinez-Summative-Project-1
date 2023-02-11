@@ -1,6 +1,6 @@
 # Martinez-Chacon-Summative-Project-1
 
-Video Summary: https://youtu.be/kCeonKtori4
+Video Summary: https://drive.google.com/file/d/1qnwJ-mlhWok5oHIx3kbGwqFDF38AoLWH/view?usp=share_link
 
 My partner's and my submission for Summative Project 1, as a part of Netflix Pathways Advanced Java Bootcamp. 
 The objective was to build a REST API using Spring Boot (a Java based framework) and Spring MVC (to handle incoming HTTP requests).
